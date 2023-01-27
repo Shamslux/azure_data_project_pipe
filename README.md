@@ -1,2 +1,7 @@
-# azure_data_project_pipe
-My first simple BI project involving the Azure cloud environment
+![1](https://user-images.githubusercontent.com/79280485/215122594-b035db12-73ae-4e06-8a37-09a3f71348a2.png)
+![2](https://user-images.githubusercontent.com/79280485/215122627-c5860a09-8742-4c6f-978c-2ce4fa878f00.png)
+![3](https://user-images.githubusercontent.com/79280485/215122637-cb909d58-0fed-4b4c-ace9-d852f62ee92d.png)
+![4](https://user-images.githubusercontent.com/79280485/215122646-f60292d0-7b91-43d4-b894-f4d437b591fd.png)
+![5](https://user-images.githubusercontent.com/79280485/215122655-e3d10454-a9dd-41ec-b553-c32c9e4c0960.png)
+![6](https://user-images.githubusercontent.com/79280485/215122670-d5a9f1f2-f345-4e84-b33f-183255b1dac1.png)
+![7](https://user-images.githubusercontent.com/79280485/215122686-a88be534-1c75-4582-a92f-efce3877a30b.png)
