@@ -1,6 +1,8 @@
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![1](https://user-images.githubusercontent.com/79280485/215125785-c18b5e05-4a5d-4f30-b813-add30a4703df.png)
 ![2](https://user-images.githubusercontent.com/79280485/215125804-1d117192-1e5b-4442-8d4c-7e1bd6ef8794.png)
 ![3](https://user-images.githubusercontent.com/79280485/215125820-26e43ac5-c10e-4ba3-b2b0-5ba730104ea9.png)
